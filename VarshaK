@@ -1,0 +1,7 @@
+package training;
+
+public class DataTypeDemo {
+	
+	public static void main(String[] args) {
+		byte b1 = (byte)300;
+		System.out.println(b1);
