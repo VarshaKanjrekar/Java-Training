@@ -16,7 +16,7 @@ public class OverridingScenario {
 	}
 }
 class X{
-	protected void test() {
+     void test() {
 	}
 }
 class Y extends X{
@@ -29,3 +29,4 @@ class Z extends Y{
 
 	}
 }
+
